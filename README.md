@@ -7,7 +7,7 @@ Bob Laskowski
 
 ### Mentees 
 
-Billie Muzzy
+Billie Muzzy - slack handle @billie 
 
 Reham Roushdy
 
