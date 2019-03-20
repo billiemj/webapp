@@ -3,12 +3,16 @@
 ## Team
 
 ### Mentor 
-Bob Laskowski
+#### Bob Laskowski
 
 ### Mentees 
 
-Billie Muzzy - slack handle `@billie` 
+#### Billie Muzzy 
+* slack handle: `@billie` 
+* email: billiemj@gmail.com
+* phone: `763.218.7767`
 
-Reham Roushdy
+#### Reham Roushdy
 
-Sombath Her - email at sombath.her@gmail.com
+#### Sombath Her  
+* email: sombath.her@gmail.com
