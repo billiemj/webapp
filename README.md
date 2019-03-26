@@ -7,10 +7,16 @@
 
 ### Mentees 
 
+### Anwar Lynch
+
+#### Ben Muzzy
+* Slack: @Ben Muzzy
+* Cell/Text: 763.218.7767
+
 #### Billie Muzzy 
-* slack handle: `@billie` 
-* email: billiemj@gmail.com
-* phone: `763.218.7767`
+* Slack: @billie 
+* Email: billiemj@gmail.com
+* Cell/Text: 763.218.7767
 
 #### Reham Roushdy
 
