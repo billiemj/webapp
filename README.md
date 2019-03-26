@@ -8,6 +8,8 @@
 ### Mentees 
 
 ### Anwar Lynch
+* Slack: @Anwar Lynch
+* Cell/Text: 652.846.9744
 
 #### Ben Muzzy
 * Slack: @Ben Muzzy
