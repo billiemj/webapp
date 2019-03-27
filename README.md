@@ -21,6 +21,9 @@
 * Cell/Text: 763.218.7767
 
 #### Reham Roushdy
+ * Slack: @rroushdy
+ * Email: reroushdy@gmail.com
+ * Cell/txt: 612.886.5940
 
 #### Sombath Her  
 * email: sombath.her@gmail.com
