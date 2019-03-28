@@ -7,7 +7,7 @@
 
 ### Mentees 
 
-### Anwar Lynch
+#### Anwar Lynch
 * Slack: @Anwar Lynch
 * Cell/Text: 652.846.9744
 
