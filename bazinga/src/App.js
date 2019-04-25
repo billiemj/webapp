@@ -11,11 +11,12 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <Header branding="Bazinga" />
+          <Header branding="bazinga" />
           <div className="container">
             <Switch>
               <Route exact path="/" component={Home} />
-              <Route exact path="/add-media" component={AddMedia} />
+              <Route exact path="/media/add-media" component={AddMedia} />}
+              add-media" component={AddMedia} />
             </Switch>
           </div>
         </div>
@@ -23,5 +24,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;
