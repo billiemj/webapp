@@ -2,13 +2,17 @@
   "name": "bazinga",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://billiemj.github.io/bazinga",
+  "homepage": "https://billiemj.github.io/webapp",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.12.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-test-renderer": "^16.8.6"
   },
   "scripts": {
     "deploy": "npm run build&&gh-pages -d build",
