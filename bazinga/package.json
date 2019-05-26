@@ -13,7 +13,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    "deploy": "npm run build&&master -d build",
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
