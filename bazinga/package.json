@@ -2,7 +2,7 @@
   "name": "bazinga",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://billiemj.github.io/bazinga",
+  "homepage": "https://billiemj.github.io/bazinga/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
@@ -13,7 +13,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    "deploy": "npm run build&&gh-pages -d build",
+    "deploy": "npm run build&&master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
