@@ -1,12 +1,11 @@
 import React, { Component } from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
-import Header from "./components/layout/Header";
-import Home from "./components/media/Home";
-import AddMedia from "./components/media/AddMedia";
+import Header from "../components/Header";
+import Home from "./Home";
+import AddMedia from "./AddMedia";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.css";
 
-class App extends Component {
+export class App extends Component {
   render() {
     return (
       <Router>
